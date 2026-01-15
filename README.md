@@ -101,19 +101,11 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 
 ---
 
-<br>
+### <p align="center"> 📌 Exemple de réalisations </p>
 
-## 🔍 Aperçu Projets Power BI sélectionnés
+#### Power BI :
 
-🔹 **Dashboard de pilotage commercial**  
-👉 https://github.com/ton-username/nom-du-projet  
-Power BI | KPIs | DAX | Modélisation
+![image](https://github.com/TanguyBorucki/images/blob/main/accueil_dashboard_netflix.png)
+![image](https://github.com/TanguyBorucki/images/blob/main/accueil_dashboard_tad.png)
 
-🔹 **Reporting financier automatisé**  
-👉 https://github.com/ton-username/nom-du-projet  
-Power BI | SQL | Actualisation automatique
-
-🔹 **Analyse de la performance marketing**  
-👉 https://github.com/ton-username/nom-du-projet  
-Power BI | Segmentation | Visualisations avancées
-
+#### Excel :
