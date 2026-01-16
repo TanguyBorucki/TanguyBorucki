@@ -5,9 +5,8 @@
 #### 🕵️‍♀️ Quelques mots pour me présenter :
 
 <p align="justify">
-<strong>Data Analyst</strong> spécialisé en <strong>Business Intelligence</strong> et en <strong>transformation de données</strong>, j’aide les organisations à structurer, fiabiliser et valoriser leurs indicateurs afin d’optimiser leur <strong>pilotage opérationnel et stratégique</strong>. Fort d’une expérience significative au sein d’<strong>environnements techniques exigeants</strong>, j’ai développé une expertise complète en <strong>data processing</strong>, <strong>modélisation</strong>, <strong>visualisation</strong> et <strong>automatisation des reportings</strong>. Après plusieurs années en ingénierie des systèmes et infrastructures, j’ai pris la <strong>responsabilité du pôle Data</strong>, où j’ai conçu et industrialisé des <strong>dashboards stratégiques</strong> pour le suivi de <strong>projets majeurs</strong>, tout en accompagnant les équipes métiers dans l’interprétation de leurs <strong>KPI</strong>.
-Mon objectif : fournir une vision <strong>claire, fiable et actionnable</strong>, et instaurer une <strong>culture data</strong> commune. Je mets en place des processus structurants autour de la <strong>qualité des données</strong>, de la <strong>standardisation</strong> et de la <strong>gouvernance de la donnée</strong>, en collaboration avec des équipes <strong>pluridisciplinaires</strong>.
-Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> et <strong>Power BI</strong>, ainsi que les concepts clés d’<strong>ETL/ELT</strong>, d’<strong>EDA</strong> et de <strong>data modeling</strong>. Curieux, <strong>analytique</strong> et tourné vers l’<strong>amélioration continue</strong>, je souhaite contribuer à des projets où la donnée devient un <strong>levier stratégique de performance</strong>.
+<strong>Data Analyst</strong> spécialisé en <strong>Business Intelligence</strong> et en <strong>transformation de données</strong>, j’aide les organisations à structurer, fiabiliser et valoriser leurs indicateurs afin d’optimiser leur <strong>pilotage opérationnel et stratégique</strong>. Fort d’une expérience significative au sein d’<strong>environnements techniques exigeants</strong>, j’ai développé une expertise complète en <strong>data processing</strong>, <strong>modélisation</strong>, <strong>visualisation</strong> et <strong>automatisation des reportings</strong>. Après plusieurs années en ingénierie des systèmes et infrastructures, j’ai pris la <strong>responsabilité du pôle Data</strong>, où j’ai conçu et industrialisé des <strong>dashboards stratégiques</strong> pour le suivi de <strong>projets majeurs</strong>, tout en accompagnant les équipes métiers dans l’interprétation de leurs <strong>KPI</strong>. Je mets en place des processus structurants autour de la <strong>qualité des données</strong>, de la <strong>standardisation</strong> et de la <strong>gouvernance de la donnée</strong>, en collaboration avec des équipes <strong>pluridisciplinaires</strong>.<br>
+Mon objectif : fournir une vision <strong>claire, fiable et actionnable</strong>, et instaurer une <strong>culture data</strong> commune.  Curieux, <strong>analytique</strong> et tourné vers l’<strong>amélioration continue</strong>, je souhaite contribuer à des projets où la donnée devient un <strong>levier stratégique de performance</strong>.
 </p> <br>
 
 ---
@@ -56,7 +55,7 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 
 #### 💼 Compétences Professionnelles :
 
-##### 💻 Data Visualization :
+##### 📊 Data Visualization :
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=googleanalytics&logoColor=ffffff&labelColor=FFBB00)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=&logoColor=ffffff&labelColor=E37400)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-000000?style=flat&logo=looker&logoColor=ffffff&labelColor=4285F4)
@@ -113,18 +112,18 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 
 #### 📌 Tableau de Bord - Netflix
 ![dashboard netflix](screenshots/dashboard_netflix.png)
-- Contexte métier : Plateforme de streaming cherchant à comprendre et optimiser son catalogue
-- Objectif : Transformer les données en insights actionnables pour guider des décisions
-- Données : Dataset Kaggle Netflix (cadre éducatif)
-- Stack : Power BI
+- **Contexte métier :** Plateforme de streaming cherchant à comprendre et optimiser son catalogue
+- **Objectif :** Transformer les données en insights actionnables pour guider des décisions
+- **Données :** Dataset Kaggle Netflix (cadre éducatif)
+- **Stack :** Power BI
 
 #### 📌 Tableau de Bord - Mobilités Rennaise
 ![dashboard tad](screenshots/dashboard_tad.png)
-- Contexte métier : Aide à la décision pour le déploiement du transport à la demande en périphérie de Rennes, en réponse aux limites du transport collectif classique en zones peu denses
-- Objectif : Identifier et prioriser les communes à potentiel TAD en croisant données socio-démographiques, offre de transport et usages, via des indicateurs et scores directement exploitables par les équipes métiers
-- Données : Réseau TàD STAR, INSEE, Datagouv
-- Stack : Python, PostgreSQL, Power BI
-- 
+- **Contexte métier :** Aide à la décision pour le déploiement du transport à la demande en périphérie de Rennes, en réponse aux limites du transport collectif classique en zones peu denses
+- **Objectif :** Identifier et prioriser les communes à potentiel TAD en croisant données socio-démographiques, offre de transport et usages, via des indicateurs et scores directement exploitables par les équipes métiers
+- **Données :** Réseau TàD STAR, INSEE, Datagouv
+- **Stack :** Python, PostgreSQL, Power BI
+  
 <br>
 
 ### Excel :
