@@ -126,4 +126,7 @@ Mon objectif : fournir une vision <strong>claire, fiable et actionnable</strong>
   
 <br>
 
+
+<!--
 ### Excel :
+-->
