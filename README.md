@@ -56,6 +56,11 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 
 #### 💼 Compétences Professionnelles :
 
+##### 💻 Data Visualization :
+![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=googleanalytics&logoColor=ffffff&labelColor=FFBB00)
+![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=&logoColor=ffffff&labelColor=E37400)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-000000?style=flat&logo=looker&logoColor=ffffff&labelColor=4285F4)
+
 ##### 💻 Langages de Programation :
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
 ![Pandas](https://img.shields.io/badge/-pandas-000000?style=flat&logo=pandas&logoColor=ffffff&labelColor=150458)
@@ -75,6 +80,7 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=flat&logo=&logoColor=white&labelColor=3B66BC)
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
+![dbt](https://img.shields.io/badge/dbt-000000?style=flat&logo=&logoColor=white&labelColor=FF7143)
 ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-000000?style=flat&logo=googlebigquery&logoColor=white&labelColor=669DF6)
 
 
@@ -82,7 +88,7 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 ![Dataiku](https://img.shields.io/badge/Dataiku-000000?style=flat&logo=dataiku&logoColor=white&labelColor=2AB1AC)
 
 
-##### ☁️ Cloud & Data Plateforms :
+##### ☁️ Cloud :
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=FF9900)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-000000?style=flat&logo=google-Cloud&logoColor=white&labelColor=4285F4)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat&logo=&logoColor=white&labelColor=3B66BC)
@@ -101,11 +107,18 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 
 ---
 
-### <p align="center"> 📌 Exemple de réalisations </p>
+### <p align="center"> 🔎 Réalisations </p>
 
-#### Power BI :
+### Power BI :
 
-![image](https://github.com/TanguyBorucki/images/blob/main/accueil_dashboard_netflix.png)
+#### 📌 Tableau de Bord - Netflix
+  ![image](https://github.com/TanguyBorucki/images/blob/main/accueil_dashboard_netflix.png)
+- Contexte métier :
+- Objectif : 
+
+#### 📌 Tableau de Bord - Mobilités Rennaise
 ![image](https://github.com/TanguyBorucki/images/blob/main/accueil_dashboard_tad.png)
 
-#### Excel :
+<br>
+
+### Excel :
