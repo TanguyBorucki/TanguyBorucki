@@ -113,12 +113,18 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 
 #### 📌 Tableau de Bord - Netflix
 ![dashboard netflix](screenshots/dashboard_netflix.png)
-- Contexte métier :
-- Objectif : 
+- Contexte métier : Plateforme de streaming cherchant à comprendre et optimiser son catalogue
+- Objectif : Transformer les données en insights actionnables pour guider des décisions
+- Données : Dataset Kaggle Netflix (cadre éducatif)
+- Stack : Power BI
 
 #### 📌 Tableau de Bord - Mobilités Rennaise
-![image](https://github.com/TanguyBorucki/images/blob/main/accueil_dashboard_tad.png)
-
+![dashboard tad](screenshots/dashboard_tad.png)
+- Contexte métier : Aide à la décision pour le déploiement du transport à la demande en périphérie de Rennes, en réponse aux limites du transport collectif classique en zones peu denses
+- Objectif : Identifier et prioriser les communes à potentiel TAD en croisant données socio-démographiques, offre de transport et usages, via des indicateurs et scores directement exploitables par les équipes métiers
+- Données : Réseau TàD STAR, INSEE, Datagouv
+- Stack : Python, PostgreSQL, Power BI
+- 
 <br>
 
 ### Excel :
