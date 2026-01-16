@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&size=40&duration=5000&pause=3000&color=E4AD14&center=true&vCenter=true&repeat=true&width=1200&height=100&lines=Bienvenue+sur+mon+profil+%F0%9F%91%8B)
 ---
-![image](https://github.com/TanguyBorucki/images/blob/main/accueil_banniere.png)
+![banniere](screenshots/banniere.png)
 
 #### 🕵️‍♀️ Quelques mots pour me présenter :
 
@@ -112,7 +112,7 @@ Côté compétences, je maîtrise <strong>Python</strong>, <strong>SQL</strong> 
 ### Power BI :
 
 #### 📌 Tableau de Bord - Netflix
-  ![image](https://github.com/TanguyBorucki/images/blob/main/accueil_dashboard_netflix.png)
+![dashboard netflix](screenshots/dashboard_netflix.png)
 - Contexte métier :
 - Objectif : 
 
