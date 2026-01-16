@@ -24,7 +24,7 @@ Mon objectif : fournir une vision <strong>claire, fiable et actionnable</strong>
 [![Jedha-Bloc2](https://img.shields.io/badge/Concepteur%20Développeur%20en%20Science%20des%20Données%20(Bloc%202)-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/73b5e1a6-0ff0-4482-b547-3be27efa0235#acc.VLbydjvK)
 [![Jedha-Bloc6](https://img.shields.io/badge/Concepteur%20Développeur%20en%20Science%20des%20Données%20(Bloc%206)-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/493c7d46-8191-4b73-9294-f6d962de489b#acc.Olxjq4SQ)
 
-[![PowerBI-PL300](https://img.shields.io/badge/Power%20BI%20PL300-000000?style=flat&logo=googleanalytics&logoColor=white&labelColor=FFBB00)]()
+<!-- [![PowerBI-PL300](https://img.shields.io/badge/Power%20BI%20PL300-000000?style=flat&logo=googleanalytics&logoColor=white&labelColor=FFBB00)]() -->
 
 <br>
 
