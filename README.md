@@ -15,19 +15,6 @@ Mon objectif : fournir une vision <strong>claire, fiable et actionnable</strong>
 
 <br>
 
-#### 🎓 Certifications Data :
-
-[![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics%204-000000?style=flat&logo=googleanalytics&logoColor=white&labelColor=E37400)](https://skillshop.credential.net/ed08d518-e689-4244-998a-6e5f8e724c4f#acc.BFutMZzS)
-
-[![Jedha-DataEssentials](https://img.shields.io/badge/Formation%20Jedha%20Data%20Essentials-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/656aa479-affa-4a20-ad51-64c8338e6be2#acc.KnfzcyaF)
-[![Jedha-FullStackDataAnalysis](https://img.shields.io/badge/Formation%20Jedha%20Fullstack%20Data%20Analysis-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/0ff10db3-bab7-4e0e-a019-341855845b86#acc.cMh5jz7m)
-[![Jedha-Bloc2](https://img.shields.io/badge/Concepteur%20Développeur%20en%20Science%20des%20Données%20(Bloc%202)-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/73b5e1a6-0ff0-4482-b547-3be27efa0235#acc.VLbydjvK)
-[![Jedha-Bloc6](https://img.shields.io/badge/Concepteur%20Développeur%20en%20Science%20des%20Données%20(Bloc%206)-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/493c7d46-8191-4b73-9294-f6d962de489b#acc.Olxjq4SQ)
-
-<!-- [![PowerBI-PL300](https://img.shields.io/badge/Power%20BI%20PL300-000000?style=flat&logo=googleanalytics&logoColor=white&labelColor=FFBB00)]() -->
-
-<br>
-
 #### 🎯 Expertises :
 ### Power BI
 - Power Query (ETL, nettoyage, transformation)
@@ -52,6 +39,19 @@ Mon objectif : fournir une vision <strong>claire, fiable et actionnable</strong>
 - Agrégations avancées & optimisation des requêtes
 - Requêtes complexes (JOIN, sous-requêtes, CTE)
 - Fonctions analytiques (WINDOW functions)
+
+<br>
+
+#### 🎓 Certifications Data :
+
+[![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics%204-000000?style=flat&logo=googleanalytics&logoColor=white&labelColor=E37400)](https://skillshop.credential.net/ed08d518-e689-4244-998a-6e5f8e724c4f#acc.BFutMZzS)
+
+[![Jedha-DataEssentials](https://img.shields.io/badge/Formation%20Jedha%20Data%20Essentials-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/656aa479-affa-4a20-ad51-64c8338e6be2#acc.KnfzcyaF)
+[![Jedha-FullStackDataAnalysis](https://img.shields.io/badge/Formation%20Jedha%20Fullstack%20Data%20Analysis-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/0ff10db3-bab7-4e0e-a019-341855845b86#acc.cMh5jz7m)
+[![Jedha-Bloc2](https://img.shields.io/badge/Concepteur%20Développeur%20en%20Science%20des%20Données%20(Bloc%202)-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/73b5e1a6-0ff0-4482-b547-3be27efa0235#acc.VLbydjvK)
+[![Jedha-Bloc6](https://img.shields.io/badge/Concepteur%20Développeur%20en%20Science%20des%20Données%20(Bloc%206)-000000?style=flat&logo=redhatopenshift&logoColor=white&labelColor=5600FF)](https://www.credential.net/493c7d46-8191-4b73-9294-f6d962de489b#acc.Olxjq4SQ)
+
+<!-- [![PowerBI-PL300](https://img.shields.io/badge/Power%20BI%20PL300-000000?style=flat&logo=googleanalytics&logoColor=white&labelColor=FFBB00)]() -->
 
 <br>
 
@@ -129,6 +129,12 @@ Mon objectif : fournir une vision <strong>claire, fiable et actionnable</strong>
 <br>
 
 
-<!--
+
 ### Excel :
--->
+
+#### 📌 Budget Planner
+![budget_planner](screenshots/budgetplanner.png)
+- **Contexte métier :** Outil d’aide au pilotage budgétaire personnel / familial visant à mieux comprendre, anticiper et maîtriser les flux financiers mensuels
+- **Objectif :** Fournir une vision consolidée et dynamique de la situation budgétaire, détecter les dérives de dépenses, analyser les tendances temporelles et évaluer l’impact de choix financiers via des indicateurs et projections exploitables
+- **Données :** Exports de comptes bancaires
+- **Stack :** Excel (Power Query, Power Pivot, TCD, VBA)
