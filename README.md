@@ -133,7 +133,7 @@ Mon objectif : fournir une vision <strong>claire, fiable et actionnable</strong>
 ### Excel :
 
 #### 📌 Budget Planner
-![budget_planner](screenshots/budgetplanner.png)
+![budget_planner](screenshots/budget_planner.png)
 - **Contexte métier :** Outil d’aide au pilotage budgétaire personnel / familial visant à mieux comprendre, anticiper et maîtriser les flux financiers mensuels
 - **Objectif :** Fournir une vision consolidée et dynamique de la situation budgétaire, détecter les dérives de dépenses, analyser les tendances temporelles et évaluer l’impact de choix financiers via des indicateurs et projections exploitables
 - **Données :** Exports de comptes bancaires
